@@ -1,0 +1,17 @@
+D:\Visual Studio 2017\Projects\Aplikasi_Sejarah_Islam\bin\Debug\Aplikasi_Sejarah_Islam.exe.config
+D:\Visual Studio 2017\Projects\Aplikasi_Sejarah_Islam\bin\Debug\Aplikasi_Sejarah_Islam.exe
+D:\Visual Studio 2017\Projects\Aplikasi_Sejarah_Islam\bin\Debug\Aplikasi_Sejarah_Islam.pdb
+D:\Visual Studio 2017\Projects\Aplikasi_Sejarah_Islam\obj\Debug\Aplikasi_Sejarah_Islam.csproj.AssemblyReference.cache
+D:\Visual Studio 2017\Projects\Aplikasi_Sejarah_Islam\obj\Debug\Aplikasi_Sejarah_Islam.MenuUtama.resources
+D:\Visual Studio 2017\Projects\Aplikasi_Sejarah_Islam\obj\Debug\Aplikasi_Sejarah_Islam.Properties.Resources.resources
+D:\Visual Studio 2017\Projects\Aplikasi_Sejarah_Islam\obj\Debug\Aplikasi_Sejarah_Islam.csproj.GenerateResource.cache
+D:\Visual Studio 2017\Projects\Aplikasi_Sejarah_Islam\obj\Debug\Aplikasi_Sejarah_Islam.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Projects\Aplikasi_Sejarah_Islam\obj\Debug\Aplikasi_Sejarah_Islam.exe
+D:\Visual Studio 2017\Projects\Aplikasi_Sejarah_Islam\obj\Debug\Aplikasi_Sejarah_Islam.pdb
+D:\Visual Studio 2017\Projects\Aplikasi_Sejarah_Islam\obj\Debug\Aplikasi_Sejarah_Islam.Periodisasi.resources
+D:\Visual Studio 2017\Projects\Aplikasi_Sejarah_Islam\obj\Debug\Aplikasi_Sejarah_Islam.Periodisasi2.resources
+D:\Visual Studio 2017\Projects\Aplikasi_Sejarah_Islam\obj\Debug\Aplikasi_Sejarah_Islam.Periodisasi3.resources
+D:\Visual Studio 2017\Projects\Aplikasi_Sejarah_Islam\obj\Debug\Aplikasi_Sejarah_Islam.Periodisasi4.resources
+D:\Visual Studio 2017\Projects\Aplikasi_Sejarah_Islam\obj\Debug\Aplikasi_Sejarah_Islam.Periodisasi5.resources
+D:\Visual Studio 2017\Projects\Aplikasi_Sejarah_Islam\obj\Debug\Aplikasi_Sejarah_Islam.Periodisasi6.resources
+D:\Visual Studio 2017\Projects\Aplikasi_Sejarah_Islam\obj\Debug\Aplikasi_Sejarah_Islam.Kronologi1_1.resources
